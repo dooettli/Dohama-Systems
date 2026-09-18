@@ -26,11 +26,13 @@ FEATURES
 ----------------------------------------------------------------------
 PROJECT STRUCTURE
 ----------------------------------------------------------------------
+```
 lib/
 ├── app/          # Core app routes and configuration
 ├── core/         # API services (OpenAI, Supabase) & themes
 ├── features/     # App features (AI Chat, Auth, Paywall)
 └── widgets/      # Reusable UI components (PaywallDialog, etc.)
+```
 
 
 ----------------------------------------------------------------------
